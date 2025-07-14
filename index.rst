@@ -30,7 +30,7 @@ This URL redirects you to the official **Home Depot Credit Card Login** page pow
 ---------------------------
 
 ✅ **Step 1: Visit the Official Login Page**  
-Go to `homedepot.com/mycard <https://www.homedepot.com/mycard>`_ — you’ll be redirected to the secure Citibank login page.
+Go to `homedepot.com/mycard <#>`_ — you’ll be redirected to the secure Citibank login page.
 
 ✅ **Step 2: Enter Your User ID and Password**  
 Input your credentials and click **Sign On**.
