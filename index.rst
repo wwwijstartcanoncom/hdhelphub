@@ -10,7 +10,7 @@ Visit `homedepot.com/mycard <https://www.homedepot.com/mycard>`_ to access your 
 
 .. image:: Button.png
    :alt: Home Depot Credit Card Login
-   :target: https://sites.google.com/view/homedepotcommycard
+   :target: https://pre.im/?CqqyiIcugtWkVpTQL2XInEKndIpDNOIY9QvTHCym7JHe6bMrZIFuZhi6pGiky8Tq0C
 
 .. raw:: html
 
